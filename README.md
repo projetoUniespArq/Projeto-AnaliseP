@@ -1,4 +1,4 @@
-# Projeto para analises de projetos
+# Projeto para Análise de Projeto de Sistema
 
 # O QUE É
 Uma empresa que atua na área de vendas de produtos e utilidades em geral,
