@@ -2,8 +2,7 @@
 
 # O QUE É
 Uma empresa que atua na área de vendas de produtos e utilidades em geral,
-tendo como foco satisfazer os clientes com as vendas de produtos da empresa. É
-uma empresa que atende a comunidade local e vizinhanças.
+tendo como foco satisfazer os clientes com as vendas de produtos da empresa. 
 
 # OBJETIVO
 O sistema tem como objetivo facilitar os registro da empresa
