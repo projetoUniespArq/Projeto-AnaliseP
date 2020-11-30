@@ -57,7 +57,7 @@ tendo uma evolução no processo de dados 10 vezes maior que com a antiga estrat
 
 # *Sobre alunos
 Yuri Regis Nascimento - 20192022021@iesp.edu.br         
-Victor Araújo França -  20192022022@iesp.edu.br 
+Victor Araújo França -  20192022022@iesp.edu.br            
 Sara De Melo Silva - 20192022017@iesp.edu.br
 
 
