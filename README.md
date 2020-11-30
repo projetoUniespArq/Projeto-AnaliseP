@@ -27,9 +27,6 @@ mais complicado, moroso e confuso. Também existe a necessidade de se gerar
 relatórios de forma mais precisa e completa, fazendo esse trabalho no Microsoft
 Office Excel não seria tão eficaz.
 
-# Sistema Escolhido
-
-
 
 # Banco de dados
 Um banco de dados sendo essencial pro funcionamento completo do sistema, utilizando o mongodb
