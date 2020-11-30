@@ -56,7 +56,7 @@ tendo uma evolução no processo de dados 10 vezes maior que com a antiga estrat
 ![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/atv2.png)
 
 # *Sobre alunos
-Yuri Regis Nascimento - 20192022021@iesp.edu.br
+Yuri Regis Nascimento - 20192022021@iesp.edu.br         
 Victor Araújo França -  20192022022@iesp.edu.br 
 Sara De Melo Silva - 20192022017@iesp.edu.br
 
