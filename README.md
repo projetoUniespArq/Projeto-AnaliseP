@@ -40,6 +40,9 @@ de cliente, produto, funcionario, estoque, compra e venda.
 Diminuindo em 40% os gastos da empresa com papel, a perda de produtos e perda de clientes, 
 tendo uma evolução no processo de dados 10 vezes maior que com a antiga estrategia de gestão
 
+# Diagrama de uso
+
+
 
 # *Sobre alunos
 Yuri Regis Nascimento - 20192022021@iesp.edu.br
