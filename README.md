@@ -40,8 +40,17 @@ de cliente, produto, funcionario, estoque, compra e venda.
 Diminuindo em 40% os gastos da empresa com papel, a perda de produtos e perda de clientes, 
 tendo uma evolução no processo de dados 10 vezes maior que com a antiga estrategia de gestão
 
-# Diagrama de uso
+# Diagrama de classes
 ![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/classes.jpg)
+
+# Diagrama de uso
+![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/uso.jpg)
+
+# Atividade 1
+![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/atv1.jpg)
+
+# Atividade 2
+![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/atv2.jpg)
 
 # *Sobre alunos
 Yuri Regis Nascimento - 20192022021@iesp.edu.br
