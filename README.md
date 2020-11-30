@@ -49,10 +49,10 @@ tendo uma evolução no processo de dados 10 vezes maior que com a antiga estrat
 # Diagrama de uso
 ![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/uso.png)
 
-# Atividade 1
+# Diagrama de Atividade 1
 ![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/atv1.png)
 
-# Atividade 2
+# Diagrama de Atividade 2
 ![alt text](https://github.com/projetoUniespArq/Projeto-AnaliseP/blob/main/assets/atv2.png)
 
 # *Sobre alunos
