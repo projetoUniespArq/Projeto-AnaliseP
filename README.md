@@ -5,11 +5,11 @@
 Facilitar a gestão da empresa, com uma analise mais precisa dos registro e dados da empresa 
 
 # Levantamento de Requisitos e Riscos
- -Cadastro e controle dos clientes da loja
- -Controle das compras dos clientes
- -Controle do estoque 
- -Controle da compra para o estoque
- -Relatorio de vendas, compras para estoque
+ -Cadastro e controle dos clientes da loja    
+ -Controle das compras dos clientes     
+ -Controle do estoque       
+ -Controle da compra para o estoque      
+ -Relatorio de vendas, compras para estoque         
   
 # Problemas existentes
 A empresa não tem um sistema para armazenamento e gestão de informações sobre a empresa.
